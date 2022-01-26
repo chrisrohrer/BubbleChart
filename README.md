@@ -1,4 +1,5 @@
 # BubbleChart
+# full SwiftUI
 Draws a Bubble Chart from data 
 circles in differenz sizes and colors adjacent to each other
 
